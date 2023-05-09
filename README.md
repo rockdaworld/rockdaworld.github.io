@@ -7,7 +7,7 @@
 
 <a href="https://vitejs.dev/guide/why.html">ViteJS Intro Page</a>
 
-<a href="Blogs.htm">Blogs</a>
+<a href="Blogs.html">Blogs</a>
 </p>
 
 
